@@ -1,6 +1,4 @@
-# WLST 11g
-
-Weblogic scritps WLST Middlware 11g
+# Weblogic scritps WLST Middlware 11g
 
 Scripts to init the domain weblogic
 
